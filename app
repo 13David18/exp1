@@ -140,7 +140,8 @@ History
 git revert HEAD
 
 🔹 Revert Specific Commit
-git revert <commit-id>
+git revert 4956f43
+
 
 
 👥 STEP 10: Collaboration Workflow
